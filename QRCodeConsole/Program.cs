@@ -35,7 +35,7 @@ namespace QRCodeConsole
             //qrAndHeaderBitmap.Save(saveFileUrl, System.Drawing.Imaging.ImageFormat.Png);
             //qrAndHeaderBitmap.Dispose(); //釋放資源  
             //qrCodeBitmap.Dispose();
-            //headerBitmap.Dispose();  
+            //headerBitmap.Dispose();
             #endregion
 
             #region 測試三、生成無LOGO和有LOGO的二維碼
