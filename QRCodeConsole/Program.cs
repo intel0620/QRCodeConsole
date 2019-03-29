@@ -58,7 +58,7 @@ namespace QRCodeConsole
             headerBitmap.Dispose();
             #endregion
 
-           // Console.ReadLine();
+           // Console.ReadLine();  
         }
     }
 }
